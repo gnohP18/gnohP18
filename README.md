@@ -29,6 +29,8 @@
   🔥 <a href = "https://www.facebook.com/tk.sin.33/">Facebook: Nguyễn Hoàng Phong</a>
   🍉<a href = "https://twitter.com/HoangPhongIT"> Twitter: Nguyễn Hoàng Phong</a>
 </pre>
+
+![github contribution grid snake animation](dist/github-contribution-grid-snake.svg)
 <!---
 gnohP18/gnohP18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
