@@ -2,20 +2,21 @@
 <h3>About me</h3>
 <blockquote>
   - 👋 Hi, I’m @gnohP18-you know me with name <strong>Nguyen Hoang Phong</strong> </br>
-  - 👀 I’m interested in coding, reading book, listening to music,swimming ...</br>
-  - 🌱 I’m currently learning at DUT</br>
-  - 👨‍💻 My experience in coding PHP, C# language is almost 2 year with different frameworks such as Laravel, .NET, ABP,... and many another frameworks for FE like Vue, React. I also have experience in basic AI/ML
+  - 👀 I’m interested in coding, reading book, listening to music, swimming ...</br>
+  - 🌱 I’m currently working at NashTech VietNam</br>
+  - 👨‍💻 My experience in coding C#, PHP, language is almost 2 year with different frameworks such as .NET, Laravel, ABP,... and many another frameworks for FE like Vue, React. I also have experience in basic AI/ML
 </blockquote>
 <h2>I have strength in</h2>
 <h4>✏ <code><b>BE</b>:</code></br></h4>
 
-<pre>- <a href="https://laravel.com/">Laravel</a></pre>
 <pre>- <a href="https://dotnet.microsoft.com/en-us/">.NET Framework</a></pre>
+<pre>- <a href="https://laravel.com/">Laravel</a></pre>
 <pre>- <a href="https://abp.io/">ABP Framework</a></pre>
 
 <h4>🍕 <code><b>FE</b>:</code></br></h4>
 
 <pre>- Html,Css like Html Razor</pre>
+<pre>- ReactJs, NextJs</pre>
 <pre>- Vue</pre>
 
 <h4>🚀 <code><b>Other knowledge</b>:</code></br></h4>
@@ -37,8 +38,12 @@
 ### Most language
 ![snake gif](https://github-readme-stats.vercel.app/api/top-langs?username=gnohp18&show_icons=true&locale=en&layout=compact)
 
-### Snake contribution commits graph
-![snake gif](https://github.com/gnohP18/gnohP18/blob/output/github-contribution-grid-snake.gif)
+### Contribution commits graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gnohP18/gnohP18/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gnohP18/gnohP18/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/gnohP18/gnohP18/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 <!---
 gnohP18/gnohP18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
